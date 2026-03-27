@@ -55,7 +55,7 @@ Every AI chatbot will tell you your idea is "interesting" and give you a bullet 
 
 **No other AI tool does this.** Not as a prompt. Not as a GPT. Not as a template. This is a 100KB structured knowledge system with 9 embedded frameworks, model-specific validation paths for 8 business types, and adaptive questioning logic that changes based on every answer you give.
 
-It's the closest thing to having a YC partner, a McKinsey consultant, and a seasoned product operator sit with you for an hour — except it's free, instant, and brutally honest.
+It's the closest thing to having a YC partner, a McKinsey consultant, and a seasoned product operator sit with you for an hour. Except it's free, instant, and brutally honest.
 
 ---
 
@@ -141,21 +141,21 @@ $ claude skill install ./skill
              existing security cameras.
 
   ai  ·····  Have you talked to restaurant owners about this?
-             Where are you — still an idea, or something built?
+             Where are you? Still an idea, or something built?
 
   you ·····  Talked to 15 owners. Prototype with 2 restaurants.
 
   ai  ·····  Good. Real discovery and early traction.
 
              The areas I want to push hardest:
-             ① Unit economics — CV inference cost/location
+             ① Unit economics. CV inference cost/location
                 vs. what a restaurant will pay
-             ② Distribution — 2 restaurants to 200
+             ② Distribution. 2 restaurants to 200
 
              Let me start with the money.
 
              Walk me through the cost to deploy at one
-             restaurant. Not just software — everything.
+             restaurant. Not just software. Everything.
 ```
 
 Weak answers get probed deeper. Strong answers move on. Every 3-4 exchanges, it names what's strong, what's weak, what's still unclear.
@@ -187,7 +187,7 @@ Weak answers get probed deeper. Strong answers move on. Every 3-4 exchanges, it 
    < 16  ██░░░░░░░░  Don't build yet.
 ```
 
-A score of 1 on any single layer — especially Problem, Unit Economics, or Moat — overrides the total. One fatal flaw sinks a business regardless of strength elsewhere.
+A score of 1 on any single layer (especially Problem, Unit Economics, or Moat) overrides the total. One fatal flaw sinks a business regardless of strength elsewhere.
 
 ---
 
@@ -301,7 +301,7 @@ Knowledge files installed into <a href="https://github.com/anthropics/claude-cod
 <details>
 <summary><strong>How is this different from ChatGPT advice?</strong></summary>
 
-(1) Adaptive — identifies YOUR idea's biggest risks. (2) Real math — TAM/SAM/SOM, LTV:CAC, P&L modeling. (3) Surfaces the kill risk — the question you're avoiding. Generic AI gives encouragement. This gives truth.
+(1) Adaptive. Identifies YOUR idea's biggest risks. (2) Real math. TAM/SAM/SOM, LTV:CAC, P&L modeling. (3) Surfaces the kill risk. The question you're avoiding. Generic AI gives encouragement. This gives truth.
 </details>
 
 ---
